@@ -9,4 +9,4 @@ Projects I worked on while attending the TripleTen Business Intelligence Analyti
 | 3 | Superstore - Data Visualisation with Tableau | The project task was to review Superstore's operations and increase its profitability in order to avoid bankruptcy. |
 | 4 | Superstore - Storytelling with Data | The project task was to help determine the reason for high returns at Superstore. |
 | 5 | Shopify - Power BI | The project task was to determine the key factors of successful Shopify apps based on publicly available data. |
-| 6 | Zomato - Final Project | 
+| 6 | Zomato - Final Project | The project task was to create a plan to solve an issue within Zomato's business. |
