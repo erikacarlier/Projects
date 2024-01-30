@@ -1,6 +1,6 @@
 ## Project Description:
 
-I’ve been hired by a consulting company and my task is to help a client analyze the vacation rental market in the Manhattan borough of New York City. The client is interested in investing in several properties but would like some guidance on what types of properties they should be targeting. Your role in the project is to analyze data collected on current Airbnb listings to identify useful insights in which Manhattan borough they should purchase a property in.
+A consulting firm wants to purchase new short term rental properties in the Manhattan borough of New York City. The project dealt with using current data from Airbnb listings to determine which borough properties would be most profitable purchasing in.
 
 ## The following questions were used as a guide:
 - Which type of properties should be targeted?
