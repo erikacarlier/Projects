@@ -20,3 +20,8 @@ Make a new sheet in your .pibx file for this new section, named App Reviews.
   3. Which developers are the most responsive? Make a bar chart with the developer from the apps table and the developer_answered column you created in question 2.2. Add a Filter for this visual only which selects only the rows where reviews_count is greater than 500.
 
 ## Project Preview
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/33f8b3f48e942ed458fcbdb23d6f4f4e2979e04f/Shopify%20-%20Power%20BI/Photos/PowerBI_Project_1.2.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/33f8b3f48e942ed458fcbdb23d6f4f4e2979e04f/Shopify%20-%20Power%20BI/Photos/PowerBI_Project_1.3.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/33f8b3f48e942ed458fcbdb23d6f4f4e2979e04f/Shopify%20-%20Power%20BI/Photos/PowerBI_Project_3.3.png)
