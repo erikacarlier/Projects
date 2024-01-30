@@ -16,3 +16,14 @@ A consulting firm wants to purchase new short term rental properties in the Manh
 
 ## Preview of Workbook:
 
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/ba2153659745a49831745fc5ed98728942cf60be/Airbnb%20-%20Advanced%20Spreadsheets/Photos/Average_Occupancy_Rate.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/ba2153659745a49831745fc5ed98728942cf60be/Airbnb%20-%20Advanced%20Spreadsheets/Photos/Average_Occupancy_Rate_by_Weekday_Graph.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/ba2153659745a49831745fc5ed98728942cf60be/Airbnb%20-%20Advanced%20Spreadsheets/Photos/Average_Occupancy_Rate_by_Weekday_Table.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/ba2153659745a49831745fc5ed98728942cf60be/Airbnb%20-%20Advanced%20Spreadsheets/Photos/Most_Popular_Neighborhoods.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/ba2153659745a49831745fc5ed98728942cf60be/Airbnb%20-%20Advanced%20Spreadsheets/Photos/Potential_Revenue_Pivot_Table.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/ba2153659745a49831745fc5ed98728942cf60be/Airbnb%20-%20Advanced%20Spreadsheets/Photos/Property_Size_by%20Popularity.png)
