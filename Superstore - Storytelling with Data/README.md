@@ -45,3 +45,10 @@ Presenting Your Analysis and Dashboard
 ## Link to Project
 https://public.tableau.com/views/Sprint4Project-Revised/LargestProfitLossCenters?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ## Project Preview
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/9a8449b42df979d853c3de4fb3454ee28b039a6c/Superstore%20-%20Storytelling%20with%20Data/Photos/Returns%20vs.%20Sales%20by%20Subcategory.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/9a8449b42df979d853c3de4fb3454ee28b039a6c/Superstore%20-%20Storytelling%20with%20Data/Photos/Return%20Rate%20by%20State.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/9a8449b42df979d853c3de4fb3454ee28b039a6c/Superstore%20-%20Storytelling%20with%20Data/Photos/Orders%20vs%20Return%20of%20Category.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/9a8449b42df979d853c3de4fb3454ee28b039a6c/Superstore%20-%20Storytelling%20with%20Data/Photos/Profit%20vs%20Return%20by%20State.png)
