@@ -4,7 +4,7 @@ Projects I worked on while attending the TripleTen Business Intelligence Analyti
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Airbnb - Advanced Spreadsheets | The project task was to analyze data from Airbnb and decide which Manhattan neighborhood investors should purchase their next group of short term rentals in. |
+| 1 | [Airbnb - Advanced Spreadsheets](https://github.com/erikacarlier/TripleTen-Projects/tree/f255dd932d96ff6e5d1aef0335af35b8f8d37135/Airbnb%20-%20Advanced%20Spreadsheets) | The project task was to analyze data from Airbnb and decide which Manhattan neighborhood investors should purchase their next group of short term rentals in. |
 | 2 | [Zuber - SQL](https://github.com/erikacarlier/TripleTen-Projects/blob/95a39ebe0e0dfb289ee972a22edc98212da2c1bf/Zuber/Zuber.md) | The project task was to use exploratory data analysis in order to compare a single route in different weather conditions for a new ride sharing company in Chicago. |
 | 3 | Superstore - Data Visualisation with Tableau | The project task was to review Superstore's operations and increase its profitability in order to avoid bankruptcy. |
 | 4 | Superstore - Storytelling with Data | The project task was to help determine the reason for high returns at Superstore. |
