@@ -4,8 +4,7 @@ Hypothesis: If a restaurant generates a large bill total per customer then the a
 
 Project Overview
 
-Analyze the data given to determine if the hypothesis is true. In order to do so we will use data from Orders, Restaurant, and Users in order to test the hypothesis.
-Analysis can also be performed on if a restaurant has a high revenue does this also mean it is most popular?
+Analyze the data given to determine if the hypothesis is true. Depending on the result I can recommend which income group would make the most sense to invest Zomato's marketing budget towards. In order to do so we will use data from Orders, Restaurant, and Users in order to test the hypothesis.
 
 Goals
 Use the data given to be able to see if the data supports the generated hypothesis. 
