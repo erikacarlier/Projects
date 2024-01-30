@@ -26,3 +26,12 @@ Use the Returns table to see if some products have abnormal rates of being retur
 
 ## Link to Project
 (https://public.tableau.com/views/Sprint4Project-Revised/LargestProfitLossCenters?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+## Workbook Preview
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/3db9893445d62ba984efef9542c0698730790c8f/Superstore%20-%20Data%20Visualisation%20with%20Tableau/Photos/Avg.%20Profit%20%26%20Return%20Rate%20Per%20State.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/3db9893445d62ba984efef9542c0698730790c8f/Superstore%20-%20Data%20Visualisation%20with%20Tableau/Photos/Best%20Advertising%20Spending.png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/3db9893445d62ba984efef9542c0698730790c8f/Superstore%20-%20Data%20Visualisation%20with%20Tableau/Photos/Subcategories%20that%20should%20stop%20selling%20and%20what%20they%20should%20focus%20on..png)
+
+![Sample Image](https://github.com/erikacarlier/TripleTen-Projects/blob/3db9893445d62ba984efef9542c0698730790c8f/Superstore%20-%20Data%20Visualisation%20with%20Tableau/Photos/Products%20that%20should%20cease%20being%20sold.png)
