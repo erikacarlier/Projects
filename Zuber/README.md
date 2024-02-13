@@ -1,10 +1,10 @@
-Project description
+## Project description
 
 I worked as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. My task was to find patterns in the available information. My objective was to understand passenger preferences and the impact of external factors on rides.
 
 I worked with the following database, I analyzed data from competitors and tested a hypothesis about the impact of weather on ride frequency. 
 
-Description of the data
+## Description of the data
 
 A database with info on taxi rides in Chicago:
     
@@ -31,7 +31,7 @@ A database with info on taxi rides in Chicago:
         description: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
 
 
-The process
+## The process
 
 I completed expoloratory data analysis in order to determine which were the two most popular taxi companies in Chicago in November of 2017. After further analysis I was able to determine the weather conditions of each ride that started at the Loop and ended at O'Hare.
 
