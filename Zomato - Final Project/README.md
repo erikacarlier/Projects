@@ -20,3 +20,9 @@ Visualizations
 - Assigning a certain category to a restaurant (not only on the values given in the dataset, but on actual average check in restaurant) --> Based on average check in a restaurant you can split restaurants into price group 
 - Distribution of customers by different income across different "price categories" of restaurants.
 - Within each group of customers analyze their actual average check. For example, customer may belong to a group with high income, but the average check will be low.
+
+<img width="1180" alt="Screenshot 2024-01-30 at 2 30 34 PM" src="https://github.com/erikacarlier/TripleTen-Projects/assets/155183853/aeeba152-a8e1-47f7-8966-31d50b9069b6">
+<img width="1167" alt="Screenshot 2024-01-30 at 2 31 34 PM" src="https://github.com/erikacarlier/TripleTen-Projects/assets/155183853/5899d8cd-bac7-457f-8d58-aaa150f04c45">
+<img width="1176" alt="Screenshot 2024-01-30 at 2 32 36 PM" src="https://github.com/erikacarlier/TripleTen-Projects/assets/155183853/4461312b-c35c-410a-8e5e-cb0b7dcc60d2">
+<img width="1178" alt="Screenshot 2024-01-30 at 2 32 46 PM" src="https://github.com/erikacarlier/TripleTen-Projects/assets/155183853/9c65ff32-bc5e-4444-bb72-4e47096f18bb">
+
